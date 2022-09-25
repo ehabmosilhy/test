@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-25T13:37:13.891Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="2X5BnVwVlHlSfhvQ9diK" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-25T19:41:31.679Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="RsBjPqW96fXXu_u1Ku4r" version="20.3.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1167" dy="178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1782" dy="1624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="500" y="10" width="1076.79" height="433" as="geometry" />
         </mxCell>
         <mxCell id="TRx7M2dBv_ThxfxMvg2C-1" value="Table" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="-810" y="55" width="340" height="150" as="geometry" />
+          <mxGeometry x="-830" y="-20" width="340" height="150" as="geometry" />
         </mxCell>
         <mxCell id="TRx7M2dBv_ThxfxMvg2C-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TRx7M2dBv_ThxfxMvg2C-1" vertex="1">
           <mxGeometry y="30" width="340" height="30" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="TRx7M2dBv_ThxfxMvg2C-16" value="service.field" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="420" width="140" height="104" as="geometry" />
+          <mxGeometry x="-610" y="350" width="140" height="104" as="geometry" />
         </mxCell>
         <mxCell id="TRx7M2dBv_ThxfxMvg2C-17" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TRx7M2dBv_ThxfxMvg2C-16" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="TRx7M2dBv_ThxfxMvg2C-21" value="ir.model.field" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="-460" y="280" width="140" height="104" as="geometry">
+          <mxGeometry x="-390" y="280" width="140" height="104" as="geometry">
             <mxRectangle x="-460" y="280" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -97,7 +97,7 @@
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="TRx7M2dBv_ThxfxMvg2C-26" value="service.field.sequence" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="280" width="140" height="104" as="geometry">
+          <mxGeometry x="-610" y="228" width="140" height="104" as="geometry">
             <mxRectangle x="-460" y="280" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -109,6 +109,15 @@
         </mxCell>
         <mxCell id="TRx7M2dBv_ThxfxMvg2C-29" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="TRx7M2dBv_ThxfxMvg2C-26" vertex="1">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="QKUrbAYqTdeZokL6QZfW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="TRx7M2dBv_ThxfxMvg2C-13" target="TRx7M2dBv_ThxfxMvg2C-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QKUrbAYqTdeZokL6QZfW-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.011;entryY=0.164;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TRx7M2dBv_ThxfxMvg2C-12" target="TRx7M2dBv_ThxfxMvg2C-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QKUrbAYqTdeZokL6QZfW-6" value="&lt;pre style=&quot;background-color: rgb(43, 43, 43); color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;page_ids = fields.Many2many(&lt;span style=&quot;color: rgb(106, 135, 89);&quot;&gt;&#39;service.field&#39;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: rgb(170, 73, 38);&quot;&gt;string&lt;/span&gt;=&lt;span style=&quot;color: rgb(106, 135, 89);&quot;&gt;&#39;Pages&#39;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: rgb(170, 73, 38);&quot;&gt;compute&lt;/span&gt;=&lt;span style=&quot;color: rgb(106, 135, 89);&quot;&gt;&quot;_compute_page_and_field_ids&quot;&lt;/span&gt;)&lt;br&gt;service_field_ids = fields.Many2many(&lt;span style=&quot;color: rgb(106, 135, 89);&quot;&gt;&#39;service.field&#39;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: rgb(170, 73, 38);&quot;&gt;string&lt;/span&gt;=&lt;span style=&quot;color: rgb(106, 135, 89);&quot;&gt;&#39;Fields&#39;&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 120, 50);&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: rgb(170, 73, 38);&quot;&gt;compute&lt;/span&gt;=&lt;span style=&quot;color: rgb(106, 135, 89);&quot;&gt;&quot;_compute_page_and_field_ids&quot;&lt;/span&gt;)&lt;/font&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="490" width="560" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
