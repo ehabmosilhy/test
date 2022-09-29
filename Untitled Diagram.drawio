@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T12:28:49.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="_03BJwOwkjzk-8qNazBO" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-29T12:46:05.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="azcCJ7QTPAG6ssZfaKc3" version="20.3.7" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="3374" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3374" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,11 +98,11 @@
         <mxCell id="UxXSh_sonlmjnM3Ibo_f-1" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Process Maker&lt;/span&gt;&lt;br style=&quot;font-weight: 700;&quot;&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;BPMN&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="-1570" y="830" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xTk5BdBtcEXZwmVaKy5W-15" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;background-color:#A7C942;color:#ffffff;border:1px solid #98bf21;&quot;&gt;&lt;th align=&quot;left&quot;&gt;العلاقة&lt;/th&gt;&lt;th align=&quot;left&quot;&gt;رقم الجواز&lt;/th&gt;&lt;th align=&quot;left&quot;&gt;اسم الملتحق&lt;/th&gt;&lt;/tr&gt;&lt;tr style=&quot;border:1px solid #98bf21;&quot;&gt;&lt;td&gt;Process&lt;/td&gt;&lt;td&gt;Service&lt;/td&gt;&lt;td&gt;خدمة&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color:#EAF2D3;border:1px solid #98bf21;&quot;&gt;&lt;td&gt;Case&lt;/td&gt;&lt;td&gt;Request&lt;/td&gt;&lt;td&gt;&amp;nbsp; طلب - إجراء&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border:1px solid #98bf21;&quot;&gt;&lt;td&gt;Task&lt;/td&gt;&lt;td&gt;Stage - Activity&lt;/td&gt;&lt;td&gt;مرحلة&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#c0c0c0;fillColor=#ffffff;overflow=fill;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xTk5BdBtcEXZwmVaKy5W-15" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;background-color:#A7C942;color:#ffffff;border:1px solid #98bf21;&quot;&gt;&lt;th align=&quot;left&quot;&gt;العلاقة&lt;/th&gt;&lt;th align=&quot;left&quot;&gt;رقم الجواز&lt;/th&gt;&lt;th align=&quot;left&quot;&gt;اسم الملتحق&lt;/th&gt;&lt;/tr&gt;&lt;tr style=&quot;border:1px solid #98bf21;&quot;&gt;&lt;td&gt;Process&lt;/td&gt;&lt;td&gt;Service&lt;/td&gt;&lt;td&gt;خدمة&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color:#EAF2D3;border:1px solid #98bf21;&quot;&gt;&lt;td&gt;Case&lt;/td&gt;&lt;td&gt;Request&lt;/td&gt;&lt;td&gt;&amp;nbsp; طلب - إجراء&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;border:1px solid #98bf21;&quot;&gt;&lt;td&gt;Task&lt;/td&gt;&lt;td&gt;Stage - Activity&lt;/td&gt;&lt;td&gt;مرحلة&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;overflow=fill;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-2160" y="730" width="280" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="xTk5BdBtcEXZwmVaKy5W-16" value="خدمة التحاق بعائل" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-2095" y="680" width="150" height="40" as="geometry" />
+        <mxCell id="xTk5BdBtcEXZwmVaKy5W-17" value="&lt;span style=&quot;font-size: 22px; font-weight: 700;&quot;&gt;خدمة التحاق بعائل&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-2160" y="670" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
